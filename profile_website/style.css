@@ -10,10 +10,10 @@
 
 /*nav start*/
 nav .nav-brand{
-	color: orange !important;
+	color: rgb(233, 177, 11) !important;
 }
 .nav-item a:hover{
-	color: white !important;
+	color: rgb(62, 60, 60) !important;
 	transition-duration: .5s;
 }
 /*nav end*/
