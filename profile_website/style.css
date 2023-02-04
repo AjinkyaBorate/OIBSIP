@@ -73,6 +73,7 @@ nav .nav-brand{
 .contact{
 	border: 2px solid white;
 	border-radius: 10px;
+	align-items: center;
 }
 
 /*----------------------------------
